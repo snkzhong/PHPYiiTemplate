@@ -1,0 +1,8 @@
+{
+    "require": {
+        "predis/predis": "dev-master",
+        //"phpmailer/phpmailer": "dev-master",
+        //"swiftmailer/swiftmailer": "5.1.*@dev"
+        "psr/log": "dev-master"
+    }
+}
